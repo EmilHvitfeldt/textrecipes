@@ -2,6 +2,8 @@
 
 # textrecipes 0.4.0
 
+* `step_dummy_hash()` generates binary indicators (possibly signed) from simple factor or character vectors. 
+
 ## Breaking Changes
 
 * `step_lda()` now takes a tokenlist instead of a character variable. See readme for more detail.
